@@ -11,7 +11,7 @@ function App() {
   };
   return (
     <div className="App" style={containerStyle}>
-      <h1>Hii Da Amuta &#128517;</h1>
+      <h1>Hii da, this is amta chandru &#128526;</h1>
     </div>
   );
 }
